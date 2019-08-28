@@ -12,7 +12,7 @@ mvn package exec:java -Dexec.args="15 words.txt"
 ```
 Parameter 0 : N which Generates a N X N matrix
 
-Parameter 1 : Name of the Text File to Generator the Dictionary
+Parameter 1 : Name of the Text File to Generate the Dictionary
 
 # Implementation
 1. Dictionary is implemented as a Trie Structure (WordDictionary.java)
